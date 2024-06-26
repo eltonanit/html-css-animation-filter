@@ -55,12 +55,44 @@
 
 /* Esercizio 6*/
 
-/* Esercizio 7*/
+.immagine-bn {
+    transition: filter 0.1s ease;
+}
 
+.immagine-bn:hover {
+    filter: grayscale(100%);
+}
+
+/* Esercizio 7*/
+.immagine-effetti-bordi {
+    transition: filter 0.5s ease, transform 0.5s ease;
+}
+
+.immagine-effetti-bordi:hover {
+    filter: brightness(70%) sepia(100%);
+    transform: rotate(10deg);
+}
 /* Esercizio 8*/
+.immagine-bordi-arrotondati {
+    transition: filter 0.5s ease, transform 0.5s ease, border-radius 0.5s ease;
+}
+
+.immagine-bordi-arrotondati:hover {
+    filter: brightness(70%) sepia(100%);
+    transform: rotate(10deg);
+    border-radius: 20px;
+}
 
 /* Esercizio 9*/
+.immagine-9 {
+    transition: filter 0.5s ease, transform 0.5s ease, border-radius 0.5s ease;
+}
 
+.immagine-9:hover {
+    filter: brightness(70%) sepia(100%);
+    transform: rotate(10deg) scale(1.1);
+    border-radius: 20px;
+}
 /* Esercizio 10*/
 
 /* Esercizio 11*/
