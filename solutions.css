@@ -32,6 +32,13 @@
     border-radius: 50%;
 }
 /* Esercizio 4*/
+#scompare {
+    transition: opacity 0.5s ease;
+}
+
+#scompare:hover {
+    opacity: 0;
+}
 
 /* Esercizio 5*/
 
