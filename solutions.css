@@ -1,0 +1,33 @@
+/* Esercizio 1 [UPD] Added animation 1*/
+.ex-1-square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    transition: background-color 0.5s ease;
+}
+
+.ex-1-square:hover {
+    background-color: red;
+}
+
+
+
+/* Esercizio 2*/
+
+/* Esercizio 3*/
+
+/* Esercizio 4*/
+
+/* Esercizio 5*/
+
+/* Esercizio 6*/
+
+/* Esercizio 7*/
+
+/* Esercizio 8*/
+
+/* Esercizio 9*/
+
+/* Esercizio 10*/
+
+/* Esercizio 11*/
