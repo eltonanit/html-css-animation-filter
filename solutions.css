@@ -14,8 +14,23 @@
 
 /* Esercizio 2*/
 
-/* Esercizio 3*/
+#rettangolo {
+    transition: width 0.5s ease, height 0.5s ease;
+}
 
+#rettangolo:active {
+    width: 500px;
+    height: 100px;
+}
+
+/* Esercizio 3*/
+#cerchio {
+    transition: border-radius 0.5s ease;
+}
+
+#cerchio:hover {
+    border-radius: 50%;
+}
 /* Esercizio 4*/
 
 /* Esercizio 5*/
