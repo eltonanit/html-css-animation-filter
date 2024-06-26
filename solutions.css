@@ -25,7 +25,7 @@
 
 /* Esercizio 3*/
 #cerchio {
-    transition: border-radius 0.5s ease;
+    transition: border-radius 0.4s ease;
 }
 
 #cerchio:hover {
