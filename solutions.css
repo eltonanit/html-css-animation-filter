@@ -41,6 +41,17 @@
 }
 
 /* Esercizio 5*/
+#cambiamento {
+    transition: transform 0.5s ease;
+}
+
+#cambiamento:hover {
+    transform: scale(1.2);
+}
+
+#cambiamento:active {
+    transform: scale(0.8);
+}
 
 /* Esercizio 6*/
 
